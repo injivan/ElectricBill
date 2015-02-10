@@ -1,0 +1,8 @@
+ToDo:
+ - New DB-
+  DB Fiels
+  1. ElectroMetar indication 
+  2. Date of indication
+  3. Tipe of indication
+  4. Price of energy
+  5. Price of extras
