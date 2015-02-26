@@ -3,6 +3,9 @@ ToDo:
   DB Fiels
   1. ElectroMetar indication 
   2. Date of indication
-  3. Tipe of indication
+  3. Tipe of indication (day nigth)
   4. Price of energy
   5. Price of extras
+  6. Type Date of indication(for pay for statistic)
+  7. Faktura
+  8. Is Paed
